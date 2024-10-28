@@ -57,6 +57,8 @@ To ensure secure and reliable integration between SonarQube and WSO2 IS, it’s 
 
 ### **Configuration Steps**
 
+![7xmKPTGBDwp19AabHFWyWd](https://github.com/user-attachments/assets/58d7faa3-b813-4479-b003-2a24a46219d7)
+
 #### Step 1: Configure WSO2 Identity Server (IS) for SAML SSO
 
 1. **Access the WSO2 Management Console**: 
